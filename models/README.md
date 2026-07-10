@@ -1,4 +1,4 @@
-# models
+## models
 This folder contains the source code for the stock prediction models.
 
 ## files
@@ -16,4 +16,4 @@ This folder contains the source code for the stock prediction models.
 - If you have obtained predictions from each of the three models, you must vote by adding the predictions from the three model results via condition (if)
 - I set the hyperparameters manually, you can try with the hyperparameter set you like.
 
-# Thank You
+## Thank You
