@@ -14,7 +14,7 @@ files = {
 
 def load_stock(files):
     df = pd.concat(
-        [pd.read_csv(f).iloc[::-1] for f in files],
+        [pd.read_csv(f) for f in files],
         ignore_index=True
     )
 
